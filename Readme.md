@@ -8,7 +8,7 @@ This project is a Parcel and Delivery Management System built using Angular for 
 
 ## Setup Instructions
 
-For detailed setup instructions for the frontend, please refer to the [Frontend README](Smart-delivery-system-frontend/readme.md).
+For detailed setup instructions for the frontend, please refer to the [Frontend README](https://github.com/Ayoub-Ajdour/Smart-delivery-system-frontend/blob/main/README.md).
 
-For detailed setup instructions for the backend, please refer to the [Backend README](smart-delivery-system-backend/readme.md).
+For detailed setup instructions for the backend, please refer to the [Backend README](https://github.com/Ayoub-Ajdour/smart-delivery-system-backend/blob/main/readme.md).
 
