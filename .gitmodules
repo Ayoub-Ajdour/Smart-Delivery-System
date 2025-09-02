@@ -1,0 +1,6 @@
+[submodule "Smart-delivery-system-frontend"]
+	path = Smart-delivery-system-frontend
+	url = https://github.com/Ayoub-Ajdour/Smart-delivery-system-frontend.git
+[submodule "smart-delivery-system-backend"]
+	path = smart-delivery-system-backend
+	url = https://github.com/Ayoub-Ajdour/smart-delivery-system-backend.git
